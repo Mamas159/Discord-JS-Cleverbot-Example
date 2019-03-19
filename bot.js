@@ -3,9 +3,9 @@ const Discord = require('discord.js')
 const client = new Discord.Client();
 
 // Settings
-var id = "Your bot ID here"
-var clkey = "Cleverbot API key here"
-var token = "Bot token here"
+var id = "557657243177451590"
+var clkey = "3hYwQ0KYNyD7pf67e7ZAIqJXxbHFYNvp"
+var token = "NTU3NjU3MjQzMTc3NDUxNTkw.D3LeUw.VPMP1Ff_d918jGZxgjJWZEnhzVg"
 
 // Cleverbot setup:
 const Cleverbot = require("cleverbot-node");
